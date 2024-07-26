@@ -18,7 +18,7 @@
   如果你真的喜欢数电，喜欢硬件描述型语言，建议你去网上找别的项目去练习一下，提示例如：USTC。而不是花时间在这个*sabi*实验上。
 
 
-![Contorl unit](//Controlunit.png)
+![Contorl unit](Digital/Datapath.png)
 
   
 ## 提示 
