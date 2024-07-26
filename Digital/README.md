@@ -19,8 +19,9 @@
 
 
 <p align = "center">    
-<img  src="Datapath.png" width="600" />
+<img  src="Inset.jpg" hight="600" />
 <img  src="Cpu.png" width="600" />
+<img  src="Datapath.png" width="600" />
 <img  src="Controlunit.png" width="600" />
 </p>
 
