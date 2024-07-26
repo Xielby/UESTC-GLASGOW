@@ -18,7 +18,13 @@
   如果你真的喜欢数电，喜欢硬件描述型语言，建议你去网上找别的项目去练习一下，提示例如：USTC。而不是花时间在这个*sabi*实验上。
 
 
-![Contorl unit](Datapath.png)
+<p align = "center">    
+<img  src="Datapath.png" width="600" />
+<img  src="Cpu.png" width="600" />
+<img  src="Controlunit.png" width="600" />
+</p>
+
+
 
   
 ## 提示 
